@@ -1,7 +1,49 @@
 # jemdoc: menu{MENU}{Publications.html}, showsource
-== Publications
+== Xin He - Publications
 
-== Selected papers
-- Li Yongfeng, Liu Haoyang, Wen Zaiwen, and Yuan Yaxiang, Low-rank Matrix Optimization Using Polynomial-filtered Subspace Extraction, SIAM Journal on Scientific Computing, Vol 42, No. 3, A1686–A1713, 2020 ([http://www.google.com paper])
-- Li Yongfeng, Liu Haoyang, Wen Zaiwen, and Yuan Yaxiang, Low-rank Matrix Optimization Using Polynomial-filtered Subspace Extraction, SIAM Journal on Scientific Computing, Vol 42, No. 3, A1686–A1713, 2020
+- [https://scholar.google.com/citations?user=TAvM2KMAAAAJ My Google Scholar Citation] \n
+- [https://www.researchgate.net/profile/Xin-He-70 My ResearchGate Profile]
 
+
+== Preprints
+
+- X. He, N.J. Huang, Y.P. Fang, Accelerated linearized alternating direction method of multipliers with Nesterov extrapolation.  arXiv:2310.16404. 2023.
+
+== Journal Papers
+
+=== 2025
+- T.T. Zhu, X. He, Y.P. Fang, An inexact linearized augmented Lagrangian method for the linearly composite convex programming. Asia-Pacific Journal of Operational Research, (Online Ready) Doi: 10.1142/S0217595925500174. 2025.\n 
+
+- X. He, D. He, L. Guo, Accelerated quadratic penalty dynamic approaches with applications to distributed optimization. Neural Networks, 184: 107032. 2025.\n 
+
+- X. He, R. Hu, Y.P. Fang, Inertial accelerated augmented Lagrangian algorithms with scaling coefficients to solve exactly and inexactly linearly constrained convex optimization problems. Journal of Computational and Applied Mathematics, 460: 116425. 2025. \n 
+
+- X. He, N.J. Huang, Y.P. Fang, Non-ergodic convergence rate of an inertial accelerated primal-dual algorithm for saddle point problems. Communications in Nonlinear Science and Numerical Simulation, 140: 108289. 2025.
+
+
+=== 2024
+
+- X. He, Accelerated primal-dual methods with adaptive parameters for composite convex optimization with linear constraints, Applied Numerical Mathematics, 203: 129-143. 2024.
+
+- X. He, R. Hu, Y.P. Fang, A second order primal-dual dynamical system for a convex-concave bilinear saddle point problem. Applied Mathematics & Optimization, 89: 30. 2024.
+
+=== 2023
+
+- X. He, F. Tian, A.Q. Li, Y.P. Fang, Convergence rates of mixed primal-dual dynamical systems with Hessian driven damping, Optimization, 74(2), 365-390. 2025.
+
+- X. He, R. Hu, Y.P. Fang, Inertial primal-dual dynamics with damping and scaling for linearly constrained convex optimization problems, Applicable Analysis, 102 (15): 4114-4139. 2023.
+
+=== 2022
+
+ - X. He, R. Hu, Y.P. Fang, Fast primal-dual algorithm via dynamical system for a linearly constrained convex optimization problem, Automatica, 146: 110547. 2022.
+
+ - X. He, R. Hu, Y.P. Fang, “Second-order primal”+“first-order dual” dynamical systems with time scaling for linear equality constrained convex optimization problems, IEEE Transactions on Automatic Control, 67(8): 4377-4383. 2022.
+
+ - X. He, R. Hu, Y.P. Fang, Inertial accelerated primal-dual methods for linear equality constrained convex optimization problems, Numerical Algorithms, 90 (4): 1669–1690. 2022.
+
+ - X. He, N.J. Huang, X.S. Li, Modified projection methods for solving multi-valued variational inequality without monotonicity, Networks and Spatial Economics, 22: 361-377. 2022.
+
+
+=== 2021
+
+ - X. He, R. Hu, Y.P. Fang, Convergence rates of inertial primal-dual dynamical methods for separable convex optimization problems, SIAM Journal on Control and Optimization , 59(5): 3278–3301. 2021.

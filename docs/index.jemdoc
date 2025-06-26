@@ -1,26 +1,36 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= Your_name 
+= Xin He (何鑫)
 
 ~~~
-{}{img_left}{image.png}{150}{250}{250}{}
-Your_name \n
-Title \n
-[www.google.com University]
+{}{img_left}{self.png}{150}{160}{193}{}
+Xin He (何鑫) Ph.D \n
+Lecture \n
+[https://lxy.xhu.edu.cn/ School of Science] \n
+[https://www.xhu.edu.cn/ Xihua University]
+
 ~~~
 
-== Contact
-Office XXX \n
-Phone XXX   \n
-Email XXX   \n
+== Biography
+-  B.S. in Information and Computational Science from Sichuan University of Science & Engineering (school of Science) in 2016.\n
+-  M.S in Operations Research and Cybernetics from Sichuan University (Department of Mathematics)  in 2019,  supervised by Prof. Nan-Jing HANG. \n 
+-  Ph.D in Operations Research and Cybernetics from Sichuan University (Department of Mathematics) in 2022,  supervised by Prof. Ya-Ping FANG. \n 
 
 
-== Summary of my research
-XXXXX
 
-== Recruiting
-XXXXXX
+== Research Interests
 
-== Research experience & Education
-- *B.S in Major* (yyyy.m) \n XXXXX
-- *M.S in Major* (yyyy.m) \n XXXXX
-- *Ph.D in Major* (yyyy.m) \n XXXXX
+- Optimization Theory, Algorithms and Applications. \n
+- Continuous-time Dynamical System for Optimization. \n
+- Optimization in Machine Learning. \n
+- Distributed Optimization. 
+
+== Contacts
+
+- Mailing address:\n
+  \quad Room 2B-303, School of Science\n
+   Xihua University, Chengdu, 610039, Sichuan, China. \n
+
+- E-mail: hexinuser(at)163.com; hexinuser@xhu.edu.cn.
+
+
+
