@@ -7,15 +7,19 @@
 
 == Preprints
 
-- *X. He*, N.J. Huang, Y.P. Fang, Accelerated linearized alternating direction method of multipliers with Nesterov extrapolation.  arXiv:2310.16404. 2023.
+- *X. He*, N.J. Huang, Y.P. Fang, Accelerated linearized alternating direction method of multipliers with Nesterov extrapolation. arXiv:2310.16404. 2023.\n
+
+- H.L. Li, *X. He#*,  Y.B. Xiao. Fast convergence of a primal-dual dynamical system with implicit Hessian damping and Tikhonov regularization. arXiv:2506.19545. 2025.
 
 == Journal Papers
 
+=== 2026
+
+- *X. He*, D. He, Y.P. Fang, Accelerated primal-dual methods for strongly convex objective functions in continuous and discrete time. /Automatica/ (Regular Paper), 183, 112579, 1026.\n
+
 === 2025
 
-- *X. He*, Y.P. Fang,  Accelerated forward-backward algorithms with subgradient corrections. /Computational Optimization and Applications/, To  appear, 2025.\n
-
-- *X. He*, D. He, Y.P. Fang, Accelerated primal-dual methods for strongly convex objective functions in continuous and discrete time. /Automatica/ (Regular Paper), To  appear, 2025.\n
+- *X. He*, Y.P. Fang,  Accelerated forward-backward algorithms with subgradient corrections. /Computational Optimization and Applications/, (Online Ready) Doi: 10.1007/s10589-025-00719-3, 2025.\n
 
 - H.L. Li, R. Hu, *X. He*, Y.B. Xiao, A general mixed-order primal-dual dynamical system with Tikhonov regularization. / Journal of Optimization Theory and Applications/, 207: 34. 2025.\n
 
